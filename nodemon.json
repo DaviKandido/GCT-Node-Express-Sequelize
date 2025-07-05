@@ -1,0 +1,11 @@
+{
+    "env": {
+        "JWT_KEW": "secret",
+        "DB_NAME": "database_development",
+        "DB_USER": "root",
+        "DB_PASS": "admin",
+        "DB_HOST": "127.0.0.1",
+        "DB_PORT": "3306",
+        "DB_DIALECT": "mysql"
+    }
+}
